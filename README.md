@@ -14,7 +14,7 @@ application that serves "Hello, World" on "/"
 
 ```bash
 $ git clone https://github.com/erik-geant/saml2_exercise.git
-$ cd s
+$ cd saml2_exercise
 # can be any reasonable python 3.x version
 $ python3.10 -m venv venv
 $ . venv/bin/activate
